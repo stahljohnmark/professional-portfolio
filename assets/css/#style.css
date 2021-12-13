@@ -1,0 +1,25 @@
+
+/* throwing things at the wall */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aquamarine
+}
+
+/* starting the styles to figure out how the header works <header> */
+
+header {
+    padding: 29px 40px;
+    background-color: burlywood;
+}
+
+header h1 {
+    font-weight: bold;
+    font-size: 45px;
+    color: #fcel138;
+    margin: 0;
+}
+
+header a {
+    color: #fce138;
+}
